@@ -1,0 +1,19 @@
+{
+  "id": 1, //key:value
+  "p_name": "test-player1",
+  "pos_x": 0.0,
+  "pos_y": 0.0,
+  "pos_z": 0.0
+}
+
+/*
+
+  int[] num = {1,2,3};
+  if data is come 
+  console.WriteLine(num[0]); --1
+
+  if JSON Comes (when top data comes) please touch the keys
+  JASON SaveDAta ReadJASON data
+  debug.log(data.id); --1
+
+*/
